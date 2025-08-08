@@ -1,0 +1,4 @@
+LangGraph is a library for building stateful, multi-actor applications with LLMs.
+It allows you to define your application as a graph, where nodes represent actions and edges represent the flow of control.
+The state in LangGraph is a shared memory object that flows through the graph.
+Conditional edges can be used to create branching logic in the workflow.
